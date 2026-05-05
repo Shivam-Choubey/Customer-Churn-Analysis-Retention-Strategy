@@ -1,7 +1,7 @@
 # 📊 Customer Churn & Retention Strategy
 ### Built with Power BI | Data Analysis Project
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Churn%20Dashboard.jpg)
 
 ---
 
