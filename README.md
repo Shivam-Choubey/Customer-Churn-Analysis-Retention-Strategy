@@ -127,6 +127,8 @@ Right now, churn is being analyzed after it happens. The company should set up a
 
 ## 🛠️ Tools Used
 
+- **MS SQL Server** — Database
+- **SQL** - Data cleaning and Data Exploration
 - **Power BI Desktop** — data modeling, DAX measures, dashboard design
 - **DAX** — for all KPI calculations
-- **MS SQL Server** — Database
+
